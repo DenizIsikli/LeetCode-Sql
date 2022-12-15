@@ -1,0 +1,3 @@
+SELECT email AS Email 
+FROM PersoN GROUP BY Email 
+HAVING COUNT(*)>1
