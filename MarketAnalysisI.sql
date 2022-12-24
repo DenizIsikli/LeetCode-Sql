@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT U.user_id AS buyer_id, U.join_date,
 COUNT(O.order_id) AS orders_in_2019
 FROM Users AS U
