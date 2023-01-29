@@ -13,6 +13,6 @@ ORDER BY employee_id ASC
 -- from the "Employees table"
 
 -- Basically checking both ways possible, and then
--- use "Union" inbetween to combine them
+-- use "UNION" inbetween to combine them
 
 -- At last I order by "employee_id" in an ascending order
