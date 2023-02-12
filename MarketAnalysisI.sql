@@ -11,8 +11,8 @@ ORDER BY buyer_id
 -- "Users" table as "U"
 
 -- I also pick "order_id" from the "Orders" table as "orders_in_2019" 
--- where I left join the "Orders" table onto the "Users" table 
--- and compare "user_id" on both tables to find the same "user_id" 
+-- where I left join the "Orders" table onto the "Users" table and 
+-- compare "user_id" on both tables to find the same "user_id" 
 
 -- I then pick "order_date" which are from 2019
 
