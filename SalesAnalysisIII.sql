@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT P.product_id, P.product_name
 FROM Product P
 LEFT JOIN Sales S
