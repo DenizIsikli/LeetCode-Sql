@@ -7,6 +7,7 @@ GROUP BY activity_date
 
 -- I select "activity_date" as "day", where I then use "COUNT" to 
 -- distinctively count the "user_id" as "active_users" from "Activity"
+
 -- I then use the "WHERE" clause to say, "WHERE" "acitivity_date" is 
 -- inbetween the given dates
 
