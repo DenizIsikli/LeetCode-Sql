@@ -8,6 +8,7 @@ ORDER BY employee_id ASC
 
 -- I select "employee_id" from "Employees" where I check if 
 -- "employee_id" is not in "employee_id" from the "Salaries" table
+
 -- Then I do the same but starting from the "Salaries" table, 
 -- where I again check if "employee_id" is not in "employee_id" 
 -- from the "Employees table"
