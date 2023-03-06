@@ -16,5 +16,6 @@ FROM Products WHERE store3 IS NOT NULL
 
 -- I select "product_id" where I put "store1" as "store" and "store1" 
 -- as "price" from "Products" where I check if "store1" is not null. 
+
 -- Then I combine all "SELECT" with "UNION" statements and do the same 
 -- for "store2" and "store3"
