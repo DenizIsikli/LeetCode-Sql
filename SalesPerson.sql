@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT name FROM SalesPerson
 WHERE name NOT IN 
 (SELECT t1.name FROM SalesPerson t1
