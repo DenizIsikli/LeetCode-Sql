@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT employee_id FROM Employees
 WHERE employee_id NOT IN (SELECT employee_id FROM Salaries)
 UNION -- Union is used to combine the result-set of two or more SELECT statements.
