@@ -1,4 +1,5 @@
-.idea/LeetCode-CPP.iml
+# IDE config
 .idea/
-.idea/*.iml
 
+# Git
+.git/
